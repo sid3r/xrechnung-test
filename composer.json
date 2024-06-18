@@ -1,0 +1,20 @@
+{
+    "name": "ittijsid/zerferd-test",
+    "description": "Generate XML invoices in XRechnung profile",
+    "type": "project",
+    "require": {
+        "horstoeko/zugferd": "1.0.56"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ittijsid\\ZerferdTest\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hamza Sider",
+            "email": "4179728+sid3r@users.noreply.github.com"
+        }
+    ]
+}
